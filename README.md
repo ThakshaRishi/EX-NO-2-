@@ -186,4 +186,4 @@ return 0;
 <img width="420" height="279" alt="image" src="https://github.com/user-attachments/assets/a5fd7869-f1b0-419b-9758-818d43c68a5a" />
 
 # Result:
-Thus, the test has been encrypted succesfully using playfair cipher technique.
+Thus, the test has been encrypted succesfully using playfair substitution technique.
